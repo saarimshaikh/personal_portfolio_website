@@ -1,3 +1,4 @@
+import { rich } from "../assets/images";
 import { pantech} from "../assets/images";
 import { amphisoft } from "../assets/images";
 import {
@@ -24,10 +25,88 @@ import {
     summiz,
     tailwindcss,
     threads,
-    typescript
+    typescript,
+    apache,
+    aws,
+    cloudfront,
+    cloudwatch,
+    docker,
+    hadoop,
+    iam,
+    jenkins,
+    k8s,
+    kafka,
+    route,
+    terraform,
+    spark,
 } from "../assets/icons";
 
 export const skills = [
+    {
+        imageUrl: apache,
+        name: "Apache",
+        type: "Version Control",
+    },
+    {
+        imageUrl: aws,
+        name: "AWS",
+        type: "Version Control",
+    },
+    {
+        imageUrl: cloudfront,
+        name: "CloudFront",
+        type: "Version Control",
+    },
+    {
+        imageUrl: cloudwatch,
+        name: "CloudWatch",
+        type: "Version Control",
+    },
+    {
+        imageUrl: docker,
+        name: "Docker",
+        type: "Version Control",
+    },
+    {
+        imageUrl: hadoop,
+        name: "Hadoop",
+        type: "Version Control",
+    },
+    {
+        imageUrl: iam,
+        name: "IAM",
+        type: "Version Control",
+    },
+    {
+        imageUrl: jenkins,
+        name: "Jenkins",
+        type: "Version Control",
+    },
+    {
+        imageUrl: k8s,
+        name: "Kubernetes",
+        type: "Version Control",
+    },
+    {
+        imageUrl: kafka,
+        name: "Kafka",
+        type: "Version Control",
+    },
+    {
+        imageUrl: route,
+        name: "Route",
+        type: "Version Control",
+    },
+    {
+        imageUrl: terraform,
+        name: "Terraform",
+        type: "Version Control",
+    },
+    {
+        imageUrl: spark,
+        name: "Spark",
+        type: "Version Control",
+    },
     {
         imageUrl: css,
         name: "CSS",
@@ -111,6 +190,19 @@ export const skills = [
 ];
 
 export const experiences = [
+    {
+        title: "Software Engineer",
+        company_name: "Richclouding Software Solutions",
+        icon: rich,
+        iconBg: "#f0f0f0",
+        date: "March 2022 - Present",
+        points: [
+            "At Richclouding Software Solutions, I have worked on different tech stacks like Hadoop, Spark, Kafka, and more.",
+            "I have also worked on Data Integration, Data Warehouse, and Data Visualization.",
+            "I have worked on different projects like Data Pipeline, Data Warehouse, and Data Visualization.",
+            "I also have experienced working with DevOps tools like Jenkins, GitLab, Kubernetes, Terraform, GitHub actions, and Docker.",
+        ],
+    },
     {
         title: "Machine Learning Intern",
         company_name: "Pantech E-Learning",

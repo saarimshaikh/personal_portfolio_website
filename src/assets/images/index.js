@@ -6,6 +6,7 @@ import tesla from './tesla.png'
 import logo from './logo.svg'
 import pantech from './pantech.png'
 import amphisoft from './amphisoft.png'
+import rich from './rich.png'
 
 export {
     hero,
@@ -15,5 +16,6 @@ export {
     tesla,
     logo,
     pantech,
-    amphisoft
+    amphisoft,
+    rich
 }

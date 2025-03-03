@@ -23,9 +23,7 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Software Engineer based in India, specializing in technical
-          education through hands-on learning and building applications.
-          I've completed my Bachelor's in Technology with major Computer Science from Lovely Professional University.
+        Detail-oriented Associate Software Engineer with 3 years of professional experience specializing in big data, data engineering, and DevOps. Skilled in building robust data pipelines, optimizing ETL processes, and managing cloud-based infrastructure to support scalable and efficient systems. Proficient in implementing CI/CD pipelines, automating deployment processes, and ensuring system reliability through monitoring and troubleshooting. Collaborative team player with a proven ability to deliver innovative solutions that align with business objectives. Passionate about leveraging data-driven insights and modern technologies to solve complex challenges and enhance operational efficiency.
         </p>
       </div>
 

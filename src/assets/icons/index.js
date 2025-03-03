@@ -26,6 +26,19 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import apache from './apache.svg'
+import aws from './aws.svg'
+import cloudfront from './cloudfront.svg'
+import cloudwatch from './cloudwatch.svg'
+import docker from './docker.svg'   
+import hadoop from './hadoop.svg'
+import iam from './iam.svg'
+import jenkins from './jenkins.svg'
+import k8s from './k8s.svg'
+import kafka from './kafka.svg'
+import route from './route.svg'
+import terraform from './terraform.svg'
+import spark from './spark.svg'
 
 export {
     css,
@@ -55,5 +68,18 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    apache,
+    aws,
+    cloudfront,
+    cloudwatch,
+    docker,
+    hadoop,
+    iam,
+    jenkins,
+    k8s,
+    kafka,
+    route,
+    terraform,
+    spark,
 }
